@@ -1,0 +1,10 @@
+name: "localFileServer"
+mod: "dev"
+version: "v1.1"
+port: 8080
+log:
+  level: "debug"
+  filename: "logger/web_app.log"
+  max_size: 20
+  max_age: 30
+  max_backups: 5
