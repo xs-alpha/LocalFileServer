@@ -1,4 +1,5 @@
 # 使用方法
+- `git clone https://github.com/xs-alpha/LocalFileServer.git`
 
 - 将电脑，手机，平板等链接到同一局域网
 
@@ -7,6 +8,7 @@
 - 请在英文目录下执行`main.exe`,运行服务端程序
 
 - 移动端访问主机`ip+port`
+- 上传的文件会存储在`File`目录
 
 ![](https://image.devilwst.top/imgs/2022/04/bebdf86cf3d2ab7b.png)
 
