@@ -1,6 +1,6 @@
 name: "localFileServer"
 mod: "dev"
-version: "v1.1"
+version: "v1.2"
 port: 8080
 log:
   level: "debug"
