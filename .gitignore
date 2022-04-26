@@ -3,3 +3,4 @@ File/
 .idea
 /dist
 .env
+.log

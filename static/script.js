@@ -24,7 +24,7 @@ fileInput.onchange = ({target})=>{
 
 // file upload function
 function uploadFile(name){
-  let urluploadlocal = document.location.href+"upload"; //getting url of upload local
+  let urluploadlocal = document.location.href+"upload2"; //getting url of upload local
   console.log(urluploadlocal)
   let xhr = new XMLHttpRequest(); //creating new xhr object (AJAX)
    let form = new FormData(); //FormData is an object to easily send form data
